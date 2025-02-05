@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @killswitch123-vish
-- 👀 I’m interested in Cricket
+- 👀 I’m interested in Learning and Building my skills
 - 🌱 I’m currently learning Cybersecurity
 - 💞️ I’m looking to collaborate on more hands-on projects to build my experience and land a job.
 - 📫 How to reach me ...
