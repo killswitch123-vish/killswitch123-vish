@@ -17,7 +17,7 @@ Learning and building real-world identity security projects — mapping roles, a
 ## 🗂 My Cybersecurity / IAM Portfolio  
 Each project below is a fully documented, real-world simulation of how identity & access governance works inside an enterprise.
 
-### **📌 Current Projects**
+**### 📌 Current Projects**
 | Project | Description |
 |--------|-------------|--------|
 | **Project 1 — Startup Simulation** | Built a full fictional company: employees, roles, departments, org chart, and tool usage. Forms the base for IAM governance.|
@@ -28,7 +28,6 @@ Each project below is a fully documented, real-world simulation of how identity 
 | **Project 6 — Zapier Automation** | Automated manager follow-ups using Google Sheets + Zapier triggers and Gmail actions. |
 | **Project 7 — Deprovisioning** | Compared tools with/without SCIM integration and built risk-reduction controls for manual deprovisioning. |
 | **Project 8 — Azure AD / Entra ID IAM Project** | Implemented PIM JIT access, Azure role configurations, and UAR setup in Entra ID. |
-
 ---
 
 ## 🧰 Skills I'm Building
