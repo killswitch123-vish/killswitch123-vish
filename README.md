@@ -30,6 +30,7 @@ Each project below is a fully documented, real-world simulation of how identity 
 | **Project 6 — Zapier Automation** | Automated manager reminders for pending UAR approvals using Google Sheets triggers and Gmail API. | ✅ Completed |
 | **Project 7 — Deprovisioning** | Mapped deprovisioning for SCIM and non-SCIM tools; identified risks, controls, and created automated removal flows. | ✅ Completed |
 | **Project 8 — Azure AD / Entra ID IAM Project** | Implemented PIM JIT roles, configured Azure role activation rules, access reviews, and identity governance policies. | ✅ Completed |
+|**ISO 27001 Mini GRC Project** | Annex A control mapping, risk register, evidence mapping, and control operating model documentation. | ✅ Completed |
 
 ---
 
