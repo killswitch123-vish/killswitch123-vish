@@ -18,16 +18,16 @@ Learning and building real-world identity security projects — mapping roles, a
 Each project below is a fully documented, real-world simulation of how identity & access governance works inside an enterprise.
 
 ### **📌 Current Projects**
-| Project | Description | Status |
+| Project | Description 
 |--------|-------------|--------|
-| **Project 1 — Startup Simulation** | Built a full fictional company: employees, roles, departments, org chart, and tool usage. Forms the base for IAM governance. | 🔄 Uploading |
-| **Project 2 — Tool Inventory & RBAC** | Full mapping of 15+ enterprise tools, authentication methods, SCIM/SAML support, and least-privilege role design. | 🔄 Uploading |
-| **Project 3 — Access Groups & Automated Provisioning** | Created security groups, birthright access, and Workday → Okta → app provisioning flows. | 🔄 Uploading |
-| **Project 4 — JIT Access (Just-In-Time)** | Designed JIT elevation rules, approval workflows, expiry policies, and SCIM-based automatic revocation. | 🔄 Uploading |
-| **Project 5 — UAR (User Access Review)** | End-to-end quarterly UAR process: reviewer assignments, risk scoring, downgrade recommendations. | 🔄 Uploading |
-| **Project 6 — Zapier Automation** | Automated manager follow-ups using Google Sheets + Zapier triggers and Gmail actions. | 🔄 Uploading |
-| **Project 7 — Deprovisioning** | Compared tools with/without SCIM integration and built risk-reduction controls for manual deprovisioning. | 🔄 Uploading |
-| **Project 8 — Azure AD / Entra ID IAM Project** | Implemented PIM JIT access, Azure role configurations, and UAR setup in Entra ID. | 🔄 Uploading |
+| **Project 1 — Startup Simulation** | Built a full fictional company: employees, roles, departments, org chart, and tool usage. Forms the base for IAM governance.
+| **Project 2 — Tool Inventory & RBAC** | Full mapping of 15+ enterprise tools, authentication methods, SCIM/SAML support, and least-privilege role design. 
+| **Project 3 — Access Groups & Automated Provisioning** | Created security groups, birthright access, and Workday → Okta → app provisioning flows. 
+| **Project 4 — JIT Access (Just-In-Time)** | Designed JIT elevation rules, approval workflows, expiry policies, and SCIM-based automatic revocation. 
+| **Project 5 — UAR (User Access Review)** | End-to-end quarterly UAR process: reviewer assignments, risk scoring, downgrade recommendations. 
+| **Project 6 — Zapier Automation** | Automated manager follow-ups using Google Sheets + Zapier triggers and Gmail actions. 
+| **Project 7 — Deprovisioning** | Compared tools with/without SCIM integration and built risk-reduction controls for manual deprovisioning.
+| **Project 8 — Azure AD / Entra ID IAM Project** | Implemented PIM JIT access, Azure role configurations, and UAR setup in Entra ID. 
 
 ---
 
