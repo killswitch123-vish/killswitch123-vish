@@ -50,7 +50,7 @@ Each project below is a fully documented, real-world simulation of how identity 
 ## 🔗 Let's Connect  
 📧 vshaagar@gmail.com  
 🌐 Sydney  
-🖥 GitHub: **you’re already here**
+🖥 linkedin:(https://www.linkedin.com/in/vishnu-ganesh123/)
 
 ---
 
