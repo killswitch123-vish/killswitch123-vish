@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Vishnu Shaagar Ganesh  
+# Hey, I'm Vishnu Shaagar Ganesh  
 
 ### 🚀 Cybersecurity | IAM | GRC | Access Governance  
 Learning and building real-world identity security projects — mapping roles, automating access, improving governance, and documenting everything along the way.
@@ -31,7 +31,7 @@ Each project below is a fully documented, real-world simulation of how identity 
 | **Project 7 — Deprovisioning** | Mapped deprovisioning for SCIM and non-SCIM tools; identified risks, controls, and created automated removal flows. | ✅ Completed |
 | **Project 8 — Azure AD / Entra ID IAM Project** | Implemented PIM JIT roles, configured Azure role activation rules, access reviews, and identity governance policies. | ✅ Completed |
 |**ISO 27001 Mini GRC Project** | Annex A control mapping, risk register, evidence mapping, and control operating model documentation. | ✅ Completed |
-
+|**Identity Verification Assurance Review |Operational assurance testing of ID verification controls (Privacy, Fraud, Reputational). Includes ToD, ToE, findings, and recommendations. |
 ---
 
 ## 🧰 Skills I'm Building
